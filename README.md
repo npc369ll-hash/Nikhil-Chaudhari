@@ -1,14 +1,25 @@
 # Hi, I'm Nikhil 👋
+🎓 Diploma in Computer Engineering
+📚 Currently pursuing B.E. in Computer Engineering
 
-🎓 Diploma in Computer Engineering  
-📚 Currently pursuing B.E. in Computer Engineering  
+💻 Full Stack Web Developer | Python & Django Developer
 
-💻 Skills:
-- C, C++
-- Python (Django)
-- HTML, CSS, JavaScript
-- Android Development
+🛠️ Skills:
+• Python (Django)
+• HTML5
+• CSS3
+• JavaScript
+• C,C++
+• SQL
+• Git & GitHub
+• Android Development
 
-🚀 I am continuously improving my problem-solving and development skills.
+🎯 Current Focus:
+• Backend Development
+• Cloud Computing
 
-Thanks for visiting my profile.
+🚀 Passionate about building scalable web applications, solving real-world problems, and continuously expanding my knowledge in software engineering.
+
+✨ Always Learning • Always Building
+
+Thanks for visiting my profile! 👋
