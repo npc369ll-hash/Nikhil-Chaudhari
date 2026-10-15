@@ -16,9 +16,8 @@
 
 🎯 Current Focus:
 • Backend Development
-• Cloud Computing
-
-🚀 Passionate about building scalable web applications, solving real-world problems, and continuously expanding my knowledge in software engineering.
+• Frontend Development
+🚀 Passionate about building scalable web applications, solving problems, and continuously expanding my knowledge in software engineering.
 
 ✨ Always Learning • Always Building
 
